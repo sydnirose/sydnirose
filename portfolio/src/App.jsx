@@ -1,3 +1,4 @@
+import { useState } from 'react'
 import { ProjectRow } from './ProjectRow'
 import './App.css'
 
@@ -5,20 +6,23 @@ function App() {
   const myProjects = [
     {
       projectTitle: "Barnes & Noble Case Study",
-      projectType: "UX/UI Design",
-      heroImage: "./barnesnoble/placeholder-img.png"
+      projectType: "UX & UI",
+      heroImage: "./barnesnoble/heroimage.png",
+      id: 1
     },
 
     {
       projectTitle: "BookMark Case Study",
-      projectType: "UX/UI Design",
-      heroImage: "./bookmark/placeholder-img.png"
+      projectType: "UX & UI",
+      heroImage: "./bookmark/heroimage.png",
+      id: 2
     },
 
     {
       projectTitle: "Arkitektur Case Study",
-      projectType: "Graphic Design",
-      heroImage: "./arkitektur/placeholder-img.png"
+      projectType: "GRAPHIC DESIGN",
+      heroImage: "./arkitektur/heroimage.png",
+      id: 3
     },
   ]
 

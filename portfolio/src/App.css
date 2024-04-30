@@ -1,3 +1,7 @@
+html {
+    background: #f7f7f5;
+}
+
 .page {
     width: 100%;
     margin: auto;
@@ -38,8 +42,7 @@ td.project-title {
 td.project-type {
     color: #7e7e7e;
     padding: 16px;
-    font-size: 1.25rem;
-    font-weight: 900;
+    font-size: 1rem;
 }
 
 /* Table Content */
@@ -60,7 +63,7 @@ td.project-type {
 
 .project-table img {
     width: 100%;
-    max-width: 500px;
+    max-width: 700px;
     height: auto;
     padding: 16px;
 }
