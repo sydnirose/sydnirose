@@ -21,9 +21,9 @@ function App() {
       </nav>
 
     {/* Projects */}
-      <h2><Link to="/projectone">Project One</Link></h2>
-      <h2><Link to="/projectone">Project Two</Link></h2>
-      <h2><Link to="/projectone">Project Three</Link></h2>
+      {/* <h2><Link to="/projectone">Project One</Link></h2>
+      <h2><Link to="/projecttwo">Project Two</Link></h2>
+      <h2><Link to="/projectthree">Project Three</Link></h2> */}
 
     {/* Routes */}
       <Routes>
@@ -33,6 +33,10 @@ function App() {
         <Route path="/projecttwo" element={<ProjectTwo />} />
         <Route path="/projectthree" element={<ProjectThree />} />
       </Routes>
+
+      {/* <h2>Project One</h2>
+      <h2>Project Two</h2>
+      <h2>Project Three</h2> */}
     </>
   )
 }
