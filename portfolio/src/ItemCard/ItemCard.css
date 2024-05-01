@@ -1,0 +1,22 @@
+.projectCard {
+    width: 100%;
+    max-width: 800px;
+}
+
+.cardImg img {
+    width: 100%;
+    max-width: 700px;
+}
+
+.cardTitle {
+    color: black;
+    padding: 16px;
+    font-size: 1.25rem;
+    font-weight: 900;
+}
+
+.cardType {
+    color: #7e7e7e;
+    padding: 16px;
+    font-size: 1rem;
+}

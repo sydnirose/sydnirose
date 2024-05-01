@@ -1,5 +1,6 @@
 html {
     background: #f7f7f5;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .page {
@@ -15,10 +16,6 @@ html {
 }
 
 /* Heading Text */
-h1, h2, th, tr {
-    font-family: Arial, Helvetica, sans-serif;
-}
-
 h1 {
     font-size: 6rem;
     padding-bottom: 0;
@@ -30,47 +27,4 @@ h2 {
     padding-bottom: 54px;
     margin-top: .5rem;
     color: #7e7e7e;
-}
-
-th {
-    color: black;
-    padding: 16px;
-    font-size: 1.25rem;
-    font-weight: 900;
-}
-
-td.project-title {
-    color: black;
-    padding: 16px;
-    font-size: 1.25rem;
-    font-weight: 900;
-}
-
-td.project-type {
-    color: #7e7e7e;
-    padding: 16px;
-    font-size: 1rem;
-}
-
-/* Table Content */
-.project-table {
-    width: 100%;
-    border-top: 1px solid black;
-    border-collapse: collapse;
-}
-
-.project-table thead, .project-table tr {
-    border-bottom: 1px solid black;
-}
-
-.project-table td, .project-table th {
-    border: 1px solid black;
-    text-align: center;
-}
-
-.project-table img {
-    width: 100%;
-    max-width: 700px;
-    height: auto;
-    padding: 16px;
 }
