@@ -56,7 +56,9 @@ function App() {
 
       {/* Footer */}
       <footer>
-
+        <div className="foot">
+          <p>This is the footer, will have email and linkedin</p>
+        </div>
       </footer>
     </div>
     </>
