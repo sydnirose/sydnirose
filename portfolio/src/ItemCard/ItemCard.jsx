@@ -5,27 +5,22 @@ export default function ItemCard({
     projectTitle,
     projectType,
     heroImage,
-    projectDescription,
-    id
 }) {
     return (
         <div className="projectCard">
 
-            <div className="cardTitle">
-                {projectTitle}
+            <div className="cardImg">
+                <img src={heroImage} alt={"projectTitle"}/>
             </div>
 
             <div className="cardType">
                 {projectType}
             </div>
 
-            <div className="cardDescription">
-                {projectDescription}
+            <div className="cardTitle">
+                {projectTitle}
             </div>
-
-            <div className="cardImg">
-                <img src={heroImage} alt={"projectTitle"}/>
-            </div>
+            
         </div>
     )
 }
