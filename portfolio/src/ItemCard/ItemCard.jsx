@@ -5,6 +5,7 @@ export default function ItemCard({
     projectTitle,
     projectType,
     heroImage,
+    projectDescription,
     id
 }) {
     return (
@@ -16,6 +17,10 @@ export default function ItemCard({
 
             <div className="cardType">
                 {projectType}
+            </div>
+
+            <div className="cardDescription">
+                {projectDescription}
             </div>
 
             <div className="cardImg">

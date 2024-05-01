@@ -1,11 +1,41 @@
+/* font-family: "nimbus-sans", sans-serif;
+font-weight: 300; font-weight: 400; font-weight: 700; */
+
+/* font-family: "miller-banner", serif; font-family: "miller-banner-condensed", sans-serif;
+font-weight: 300; font-weight: 400; font-weight: 600; font-weight: 700; */
+
 html {
     background: #f7f7f5;
-    font-family: Arial, Helvetica, sans-serif;
 }
 
 .page {
     width: 100%;
     margin: auto;
+}
+
+/* Header */
+.head {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding-bottom: 50px;
+    margin: 0px 25px;
+}
+
+/* Navigation */
+ul {
+    list-style-type: none;
+    font-family: "nimbus-sans", sans-serif;
+    font-weight: 400;
+    font-size: 2rem;
+    padding-top: 45px;
+    padding-left: 0;
+}
+
+li {
+    display: inline;
+    padding: 0px 10px;
 }
 
 /* Card Div */
@@ -17,14 +47,10 @@ html {
 
 /* Heading Text */
 h1 {
-    font-size: 6rem;
+    font-family: "miller-banner", serif;
+    font-weight: 400;
+    font-size: 5.5rem;
     padding-bottom: 0;
+    margin-top: 0;
     margin-bottom: 0;
-}
-
-h2 {
-    font-size: 2.5rem;
-    padding-bottom: 54px;
-    margin-top: .5rem;
-    color: #7e7e7e;
 }

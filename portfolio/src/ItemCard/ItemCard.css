@@ -1,22 +1,28 @@
 .projectCard {
     width: 100%;
-    max-width: 800px;
+    padding-bottom: 60px;
+}
+
+.cardTitle {
+    font-family: "miller-banner", serif;
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+
+.cardType {
+    font-family: "nimbus-sans", sans-serif;
+    font-size: 1.125rem;
+    font-weight: 400;
+}
+
+.cardDescription {
+    font-family: "nimbus-sans", sans-serif;
+    font-size: 1.125rem;
+    font-weight: 300;
 }
 
 .cardImg img {
     width: 100%;
     max-width: 700px;
-}
 
-.cardTitle {
-    color: black;
-    padding: 16px;
-    font-size: 1.25rem;
-    font-weight: 900;
-}
-
-.cardType {
-    color: #7e7e7e;
-    padding: 16px;
-    font-size: 1rem;
 }

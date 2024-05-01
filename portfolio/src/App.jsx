@@ -8,6 +8,7 @@ function App() {
       projectTitle: "Barnes & Noble Case Study",
       projectType: "UX & UI",
       heroImage: "./barnesnoble/heroimage.png",
+      projectDescription: "descriptions here",
       id: "1"
     },
 
@@ -15,6 +16,7 @@ function App() {
       projectTitle: "BookMark Case Study",
       projectType: "UX & UI",
       heroImage: "./bookmark/heroimage.png",
+      projectDescription: "descriptions here",
       id: "2"
     },
 
@@ -22,6 +24,7 @@ function App() {
       projectTitle: "Arkitektur Case Study",
       projectType: "GRAPHIC DESIGN",
       heroImage: "./arkitektur/heroimage.png",
+      projectDescription: "descriptions here",
       id: "3"
     },
   ]);
@@ -29,8 +32,23 @@ function App() {
   return (
     <>
     <div className="page">
-      <h1>Sydni Rose</h1>
-      <h2>Portfolio</h2>
+      {/* Header */}
+      <div className="head">
+        <header>
+          <h1>Sydni Rose</h1>
+        </header>
+
+        {/* Navigation */}
+        <nav>
+          <ul>
+            <li>Projects</li>
+            <li>About</li>
+            <li>Contact</li>
+          </ul>
+        </nav>
+      </div>
+
+      {/* Projects */}
       <div className="collection">
         {projects.map((myProject) => {
           return (
@@ -38,6 +56,11 @@ function App() {
           )
         })}
       </div>
+
+      {/* Footer */}
+      <footer>
+
+      </footer>
     </div>
     </>
   )
