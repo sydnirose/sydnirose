@@ -5,6 +5,7 @@ export default function ItemCard({
     projectTitle,
     projectType,
     heroImage,
+    // id
 }) {
     return (
         <div className="projectCard">

@@ -9,6 +9,7 @@ function App() {
       projectType: "UX & UI",
       heroImage: "./barnesnoble/heroimage.png",
       projectDescription: "descriptions here",
+      id: "1"
     },
 
     {
@@ -16,6 +17,7 @@ function App() {
       projectType: "UX & UI",
       heroImage: "./bookmark/heroimage.png",
       projectDescription: "descriptions here",
+      id: "2"
     },
 
     {
@@ -23,6 +25,7 @@ function App() {
       projectType: "GRAPHIC DESIGN",
       heroImage: "./arkitektur/heroimage.png",
       projectDescription: "descriptions here",
+      id: "3"
     },
   ]);
 
