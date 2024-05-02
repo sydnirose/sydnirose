@@ -8,7 +8,10 @@ function App() {
       projectTitle: "Barnes & Noble Case Study",
       projectType: "UX & UI",
       heroImage: "./barnesnoble/heroimage.png",
-      projectDescription: "descriptions here",
+      projectDescription: "description of project here",
+      skillsUsed: ["User Journey Mapping", "Research", "Wireframing", "Prototyping", "Design Systems", "Figma"],
+      processTitle: "Design Process",
+      processDescription: "description of process here",
       id: "1"
     },
 
@@ -16,7 +19,10 @@ function App() {
       projectTitle: "BookMark Case Study",
       projectType: "UX & UI",
       heroImage: "./bookmark/heroimage.png",
-      projectDescription: "descriptions here",
+      projectDescription: "description of project here",
+      skillsUsed: ["User Research", "Market Research", "Wireframing", "Prototyping", "Design Systems", "Figma"],
+      processTitle: "Design Process",
+      processDescription: "description of process here",
       id: "2"
     },
 
@@ -24,10 +30,15 @@ function App() {
       projectTitle: "Arkitektur Case Study",
       projectType: "GRAPHIC DESIGN",
       heroImage: "./arkitektur/heroimage.png",
-      projectDescription: "descriptions here",
+      projectDescription: "description of project here",
+      skillsUsed: ["User Persona Research", "Design Systems", "Adobe Createive Suite"],
+      processTitle: "Design Process",
+      processDescription: "description of process here",
       id: "3"
     },
   ]);
+
+  console.log(projects);
 
   return (
     <>
