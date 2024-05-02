@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { Link } from "react-router-dom";
 import ItemCard from "../ItemCard/ItemCard";
 import projectData from '../assets/project-data.json'
 
@@ -14,14 +15,15 @@ export function Home() {
             </header>
 
         {/* Navigation */}
-                <nav>
-                    <ul>
-                        <li>Projects</li>
-                        <li>About</li>
-                        <li>Contact</li>
-                    </ul>
-                </nav>
-            </div>
+            <nav>
+                <ul>
+                    <Link to="/"><li>Projects</li></Link>
+                    <a href="javascript: document.body.scrollIntoView(false);"><li>About</li></a>
+                    <a href="javascript: document.body.scrollIntoView(false);"><li>Contact</li></a>
+                </ul>
+            </nav>
+        </div>
+
 
         {/* Projects */}
             <div className="collection">
@@ -30,12 +32,20 @@ export function Home() {
                     <ItemCard key={myProject.slug} {...myProject} />
                     )
                 })}
-      </div>
+            </div>
 
         {/* Footer */}
             <footer>
                 <div className="foot">
-                    <p>This is the footer, will have email and linkedin</p>
+                <div className="about">
+                    <h3>About</h3>
+                    <p>About me blurb, paragraph or so.</p>
+                </div>
+
+                <div className="contact">
+                    <h3>Contact</h3>
+                    <p>This will have email and linkedin</p>
+                </div>
                 </div>
             </footer>
     </div>
