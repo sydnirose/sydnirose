@@ -1,5 +1,5 @@
-import PropTypes from "prop-types"
-import "./ItemCard.css"
+import PropTypes from "prop-types";
+import "./ItemCard.css";
 import { Link } from 'react-router-dom';
 
 export default function ItemCard({
@@ -12,7 +12,7 @@ export default function ItemCard({
         <div className="projectCard">
 
             <div className="cardImg">
-            <Link to={`${slug}`}><img src={heroImage} alt={"projectTitle"}/></Link>
+            <Link to={`${slug}`}><img src={heroImage} alt={projectTitle}/></Link>
             </div>
 
             <div className="cardType">

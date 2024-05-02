@@ -5,15 +5,17 @@
         "heroImage": "./barnesnoble/heroimage.png",
         "projectDescription": "description of project here",
         "skillsUsed": [
-            "User Journey Mapping",
-            "Research",
-            "Wireframing",
-            "Prototyping",
-            "Design Systems",
-            "Figma"
+            "Skills: ",
+            "User Journey Mapping, ",
+            "Research, ",
+            "Wireframing, ",
+            "Prototyping, ",
+            "Design Systems, ",
+            "Figma, "
         ],
         "processTitle": "Design Process",
         "processDescription": "description of process here",
+        "img1": "./barnesnoble/placeholder-img.png",
         "slug": "barnes-and-noble"
     },
     {
@@ -22,11 +24,12 @@
         "heroImage": "./bookmark/heroimage.png",
         "projectDescription": "description of project here",
         "skillsUsed": [
-            "User Research",
-            "Market Research",
-            "Wireframing",
-            "Prototyping",
-            "Design Systems",
+            "Skills: ",
+            "User Research, ",
+            "Market Research, ",
+            "Wireframing, ",
+            "Prototyping, ",
+            "Design Systems, ",
             "Figma"
         ],
         "processTitle": "Design Process",
@@ -39,9 +42,10 @@
         "heroImage": "./arkitektur/heroimage.png",
         "projectDescription": "description of project here",
         "skillsUsed": [
-            "User Persona Research",
-            "Design Systems",
-            "Adobe Createive Suite"
+            "Skills: ",
+            "User Persona Research, ",
+            "Design Systems, ",
+            "Adobe Creative Suite"
         ],
         "processTitle": "Design Process",
         "processDescription": "description of process here",
