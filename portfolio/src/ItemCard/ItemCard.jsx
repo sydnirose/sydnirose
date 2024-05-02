@@ -1,16 +1,18 @@
 import PropTypes from "prop-types"
 import "./ItemCard.css"
+import { Link } from 'react-router-dom';
 
 export default function ItemCard({
     projectTitle,
     projectType,
     heroImage,
+    id,
 }) {
     return (
         <div className="projectCard">
 
             <div className="cardImg">
-                <img src={heroImage} alt={"projectTitle"}/>
+            <Link to={`${id}`}><img src={heroImage} alt={"projectTitle"}/></Link>
             </div>
 
             <div className="cardType">
@@ -18,7 +20,8 @@ export default function ItemCard({
             </div>
 
             <div className="cardTitle">
-                {projectTitle}
+                <Link to={`${id}`}>{projectTitle}</Link>
+                
             </div>
             
         </div>
