@@ -14,7 +14,7 @@
         ],
         "processTitle": "Design Process",
         "processDescription": "description of process here",
-        "id": "1"
+        "slug": "barnes-and-noble"
     },
     {
         "projectTitle": "BookMark Case Study",
@@ -31,7 +31,7 @@
         ],
         "processTitle": "Design Process",
         "processDescription": "description of process here",
-        "id": "2"
+        "slug": "bookmark-app"
     },
     {
         "projectTitle": "Arkitektur Case Study",
@@ -45,6 +45,6 @@
         ],
         "processTitle": "Design Process",
         "processDescription": "description of process here",
-        "id": "3"
+        "slug": "arkitektur-magazine"
     }
 ]

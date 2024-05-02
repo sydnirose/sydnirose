@@ -27,7 +27,7 @@ export function Home() {
             <div className="collection">
                 {projects.map((myProject) => {
                     return (
-                    <ItemCard key={myProject.id} {...myProject} />
+                    <ItemCard key={myProject.slug} {...myProject} />
                     )
                 })}
       </div>
