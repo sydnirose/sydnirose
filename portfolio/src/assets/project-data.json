@@ -16,6 +16,9 @@
         "processTitle": "Design Process",
         "processDescription": "description of process here",
         "img1": "./barnesnoble/placeholder-img.png",
+        "img2": "./barnesnoble/placeholder-img.png",
+        "img3": "./barnesnoble/placeholder-img.png",
+        "img4": "./barnesnoble/placeholder-img.png",
         "slug": "barnes-and-noble"
     },
     {
@@ -34,6 +37,10 @@
         ],
         "processTitle": "Design Process",
         "processDescription": "description of process here",
+        "img1": "./bookmark/placeholder-img.png",
+        "img2": "./bookmark/placeholder-img.png",
+        "img3": "./bookmark/placeholder-img.png",
+        "img4": "./bookmark/placeholder-img.png",
         "slug": "bookmark-app"
     },
     {
@@ -49,6 +56,10 @@
         ],
         "processTitle": "Design Process",
         "processDescription": "description of process here",
+        "img1": "./arkitektur/placeholder-img.png",
+        "img2": "./arkitektur/placeholder-img.png",
+        "img3": "./arkitektur/placeholder-img.png",
+        "img4": "./arkitektur/placeholder-img.png",
         "slug": "arkitektur-magazine"
     }
 ]
