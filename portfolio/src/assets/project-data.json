@@ -3,7 +3,8 @@
         "projectTitle": "Barnes & Noble Case Study",
         "projectType": "UX & UI",
         "heroImage": "./barnesnoble/heroimage.png",
-        "projectDescription": "description of project here",
+        "secondaryImage": "./barnesnoble/secondaryimage.png",
+        "projectDescription": "This case study focuses on Barnes & Noble, a nationwide bookseller. I redesigned B&N's existing website with consideration of where and how there could be improvements in user experience and design strategy. The final deliverables of this project were functioning prototypes of desktop, tablet and mobile layouts for the bookseller's website.",
         "skillsUsed": [
             "Skills: ",
             "User Journey Mapping, ",
@@ -11,21 +12,22 @@
             "Wireframing, ",
             "Prototyping, ",
             "Design Systems, ",
-            "Figma, "
+            "Figma"
         ],
         "processTitle": "Design Process",
         "processDescription": "description of process here",
-        "img1": "./barnesnoble/placeholder-img.png",
-        "img2": "./barnesnoble/placeholder-img.png",
-        "img3": "./barnesnoble/placeholder-img.png",
-        "img4": "./barnesnoble/placeholder-img.png",
+        "img1": "./barnesnoble/bn-userflows.png",
+        "img2": "./barnesnoble/bn-mobilesketches.jpg",
+        "img3": "./barnesnoble/bn-initialideas.png",
+        "img4": "./barnesnoble/bn-mobileconcepts.png",
         "slug": "barnes-and-noble"
     },
     {
         "projectTitle": "BookMark Case Study",
         "projectType": "UX & UI",
         "heroImage": "./bookmark/heroimage.png",
-        "projectDescription": "description of project here",
+        "secondaryImage": "./bookmark/heroimage.png",
+        "projectDescription": "BookMark is a digital notebook for book notes, a concept I created while looking for a solution to this problem: How can I take notes while reading a hard copy book and have them organized and easy to access for future reference? I started with implementing market research and learning about potential users before reaching the current version of a mobile app prototype. This project is ongoing with the goal of alpha testing.",
         "skillsUsed": [
             "Skills: ",
             "User Research, ",
@@ -47,17 +49,18 @@
         "projectTitle": "Arkitektur Case Study",
         "projectType": "GRAPHIC DESIGN",
         "heroImage": "./arkitektur/heroimage.png",
-        "projectDescription": "description of project here",
+        "secondaryImage": "./arkitektur/secondaryimage.png",
+        "projectDescription": "This case study is centered around Arkitektur, a magazine I created to showcase interior design, timeless architecture, beautiful landscaping and more. From the initial conception to a final cover and feature story spread, I am also currently working on a desktop layout for Arkitektur's website.",
         "skillsUsed": [
             "Skills: ",
             "User Persona Research, ",
             "Design Systems, ",
-            "Adobe Creative Suite"
+            "Adobe Creative Suite (Illustrator, InDesign, Photoshop)"
         ],
         "processTitle": "Design Process",
         "processDescription": "description of process here",
-        "img1": "./arkitektur/placeholder-img.png",
-        "img2": "./arkitektur/placeholder-img.png",
+        "img1": "./arkitektur/moodboard.jpg",
+        "img2": "./arkitektur/covertitle-options.png",
         "img3": "./arkitektur/placeholder-img.png",
         "img4": "./arkitektur/placeholder-img.png",
         "slug": "arkitektur-magazine"

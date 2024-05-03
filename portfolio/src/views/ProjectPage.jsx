@@ -11,26 +11,30 @@ export function ProjectPage({data}) {
         <>
         {/* Header */}
         <div className="head">
-            <header>
-                <h1>Sydni Rose</h1>
-            </header>
+        <header>
+            <h1>Sydni Rose</h1>
+        </header>
 
         {/* Navigation */}
-            <nav>
-                <ul>
-                    <Link to="/"><li>Projects</li></Link>
-                    <a href="javascript: document.body.scrollIntoView(false);"><li>About</li></a>
-                    <a href="javascript: document.body.scrollIntoView(false);"><li>Contact</li></a>
-                </ul>
-            </nav>
+        <nav>
+            <ul>
+                <Link to="/"><li>Projects</li></Link>
+                <a href="javascript: document.body.scrollIntoView(false);"><li>About</li></a>
+                <a href="javascript: document.body.scrollIntoView(false);"><li>Contact</li></a>
+            </ul>
+        </nav>
         </div>
 
+        {/* Final Product */}
         <div className="productCard">
             <h1 className="title">{selectedProject.projectTitle}</h1>
             <p className="skills">{selectedProject.skillsUsed}</p>
             <p className="description">{selectedProject.projectDescription}</p>
             <img className="heroImg" src={selectedProject.heroImage} alt={selectedProject.projectTitle} />
+            <img className="secondaryImg" src={selectedProject.secondaryImage} alt={selectedProject.projectTitle} />
         </div>
+
+        {/* Design Process */}
         <div className="processCard">
             <h1 className="title">{selectedProject.processTitle}</h1>
             <p className="description">{selectedProject.processDescription}</p>
