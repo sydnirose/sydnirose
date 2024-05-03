@@ -20,7 +20,7 @@
     font-family: "nimbus-sans", sans-serif;
     font-size: 24px;
     font-weight: 400;
-    color: gray;
+    color: rgb(103, 101, 101);
 }
 
 .cardDescription {
@@ -32,5 +32,4 @@
 .cardImg img {
     width: 100%;
     max-width: 850px;
-    border-radius: 5px;
 }

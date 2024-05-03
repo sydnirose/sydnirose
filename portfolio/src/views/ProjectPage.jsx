@@ -9,6 +9,7 @@ export function ProjectPage({data}) {
     console.log("project", selectedProject);
     return(
         <>
+        <div className="page">
         {/* Header */}
         <div className="head">
         <header>
@@ -27,12 +28,20 @@ export function ProjectPage({data}) {
 
         {/* Final Product */}
         <div className="productCard">
-            <h1 className="title">{selectedProject.projectTitle}</h1>
-            <p className="skills">{selectedProject.skillsUsed}</p>
-            <p className="description">{selectedProject.projectDescription}</p>
-            <img className="heroImg" src={selectedProject.heroImage} alt={selectedProject.projectTitle} />
-            <img className="secondaryImg" src={selectedProject.secondaryImage} alt={selectedProject.projectTitle} />
+            <div className="content">
+                <h1 className="title">{selectedProject.projectTitle}</h1>
+                <p className="skills">{selectedProject.skillsUsed}</p>
+                <p className="description">{selectedProject.projectDescription}</p>
+            </div>
+
+            <div className="heroImg">
+                <img src={selectedProject.heroImage} alt={selectedProject.projectTitle} />
+            </div>
         </div>
+
+            <div className="secondaryImg">
+                <img src={selectedProject.secondaryImage} alt={selectedProject.projectTitle} />
+            </div>
 
         {/* Design Process */}
         <div className="processCard">
@@ -42,6 +51,8 @@ export function ProjectPage({data}) {
             <img className="img2" src={selectedProject.img2} alt={selectedProject.projectTitle} />
             <img className="img3" src={selectedProject.img3} alt={selectedProject.projectTitle} />
             <img className="img4" src={selectedProject.img4} alt={selectedProject.projectTitle} />
+        </div>
+
         </div>
 
 

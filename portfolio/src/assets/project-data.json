@@ -4,7 +4,7 @@
         "projectType": "UX & UI",
         "heroImage": "./barnesnoble/heroimage.png",
         "secondaryImage": "./barnesnoble/secondaryimage.png",
-        "projectDescription": "This case study focuses on Barnes & Noble, a nationwide bookseller. I redesigned B&N's existing website with consideration of where and how there could be improvements in user experience and design strategy. The final deliverables of this project were functioning prototypes of desktop, tablet and mobile layouts for the bookseller's website.",
+        "projectDescription": "This case study focuses on Barnes & Noble, a nationwide bookseller. I redesigned B&N's existing website with consideration of where and how there could be improvements in user experience and design strategy. The final deliverables were functioning prototypes of desktop, tablet and mobile layouts for the bookseller's website.",
         "skillsUsed": [
             "Skills: ",
             "User Journey Mapping, ",
@@ -26,7 +26,7 @@
         "projectTitle": "BookMark Case Study",
         "projectType": "UX & UI",
         "heroImage": "./bookmark/heroimage.png",
-        "secondaryImage": "./bookmark/heroimage.png",
+        "secondaryImage": "./bookmark/secondaryimage.png",
         "projectDescription": "BookMark is a digital notebook for book notes, a concept I created while looking for a solution to this problem: How can I take notes while reading a hard copy book and have them organized and easy to access for future reference? I started with implementing market research and learning about potential users before reaching the current version of a mobile app prototype. This project is ongoing with the goal of alpha testing.",
         "skillsUsed": [
             "Skills: ",
@@ -39,10 +39,10 @@
         ],
         "processTitle": "Design Process",
         "processDescription": "description of process here",
-        "img1": "./bookmark/placeholder-img.png",
-        "img2": "./bookmark/placeholder-img.png",
-        "img3": "./bookmark/placeholder-img.png",
-        "img4": "./bookmark/placeholder-img.png",
+        "img1": "./bookmark/bm-sketches.jpg",
+        "img2": "./bookmark/bm-fontideas.png",
+        "img3": "./bookmark/bm-coloropts.png",
+        "img4": "./bookmark/bm-layoutopts.png",
         "slug": "bookmark-app"
     },
     {
@@ -59,10 +59,10 @@
         ],
         "processTitle": "Design Process",
         "processDescription": "description of process here",
-        "img1": "./arkitektur/moodboard.jpg",
-        "img2": "./arkitektur/covertitle-options.png",
-        "img3": "./arkitektur/placeholder-img.png",
-        "img4": "./arkitektur/placeholder-img.png",
+        "img1": "./arkitektur/bookmoodboard.jpg",
+        "img2": "./arkitektur/moodboard.jpg",
+        "img3": "./arkitektur/covertitle-options.png",
+        "img4": "./arkitektur/styleguide.jpg",
         "slug": "arkitektur-magazine"
     }
 ]
