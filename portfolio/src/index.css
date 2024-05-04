@@ -1,0 +1,11 @@
+a {
+    color: #2b3c33;
+    text-decoration: none;
+}
+a:hover {
+    color: #608974;
+}
+
+a:active {
+    color: rgb(217, 99, 158);
+}

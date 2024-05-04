@@ -3,6 +3,12 @@
     margin: auto;
 }
 
+img {
+    width: 100%;
+    max-width: 900px;
+}
+
+/* Font styling */
 .title {
     font-family: "nimbus-sans", sans-serif;
     font-size: 48px;
@@ -13,7 +19,7 @@
     font-family: "nimbus-sans", sans-serif;
     font-size: 16px;
     font-weight: 400;
-    color: rgb(103, 101, 101);
+    color: #809188;
     text-transform: uppercase
 }
 
@@ -21,9 +27,11 @@
     font-family: "nimbus-sans", sans-serif;
     font-size: 18px;
     font-weight: 300;
+    margin-bottom: 2px;
 }
 
-.productCard {
+/* Product and Process Card */
+.productCard, .processCard {
     text-align: left;
     margin: 25px;
     padding-top: 35px;
@@ -34,9 +42,13 @@
     align-items: flex-end;
 }
 
-.heroImg {
+.processCard {
+    padding-top: 50px;
+}
+
+.heroImg, .img1 {
     max-width: 600px;
-    padding: 0px 10px;
+    padding: 20px 10px 0px 10px;
 }
 
 .content {
@@ -45,26 +57,34 @@
     align-self: center;
 }
 
+.processContent {
+    max-width: 450px;
+    padding-right: 10px;
+    align-self: flex-end;
+}
+
 .secondaryImg {
     margin-right: 25px;
     margin-left: 15px;
-    padding-top: 35px;
+    padding: 35px 0px;
 }
 
-.processCard {
-    text-align: left;
-    padding: 25px 25px;
-    margin: 25px;
-    display: flex;
-    flex-direction: column;
-}
-
-img {
-    width: 100%;
-    max-width: 900px;
-}
-
-.secondaryImg img{
+.secondaryImg img {
     text-align: center;
     max-width: 100%;
+}
+
+/* Image Set */
+.imgSet {
+    padding: 35px 5px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.column {
+    flex: 50%;
+    padding: 5px;
+    align-self: center;
+    max-width: 600px;
 }

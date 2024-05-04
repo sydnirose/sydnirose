@@ -15,11 +15,10 @@
             "Figma"
         ],
         "processTitle": "Design Process",
-        "processDescription": "description of process here",
-        "img1": "./barnesnoble/bn-userflows.png",
-        "img2": "./barnesnoble/bn-mobilesketches.jpg",
-        "img3": "./barnesnoble/bn-initialideas.png",
-        "img4": "./barnesnoble/bn-mobileconcepts.png",
+        "processDescription": "This case study focuses on Barnes & Noble, a nationwide bookseller. I redesigned B&N's existing website with consideration of where and how there could be improvements in user experience and design strategy. The final deliverables were functioning prototypes of desktop, tablet and mobile layouts for the bookseller's website. This case study focuses on Barnes & Noble, a nationwide bookseller. I redesigned B&N's existing website with consideration of where and how there could be improvements in user experience and design strategy. The final deliverables were functioning prototypes of desktop, tablet and mobile layouts for the bookseller's website.",
+        "img1": "./barnesnoble/bn-mobilesketches.jpg",
+        "img2": "./barnesnoble/bn-userflow.png",
+        "img3": "./barnesnoble/bn-mobileconcepts.png",
         "slug": "barnes-and-noble"
     },
     {
@@ -38,11 +37,10 @@
             "Figma"
         ],
         "processTitle": "Design Process",
-        "processDescription": "description of process here",
+        "processDescription": "This case study focuses on Barnes & Noble, a nationwide bookseller. I redesigned B&N's existing website with consideration of where and how there could be improvements in user experience and design strategy. The final deliverables were functioning prototypes of desktop, tablet and mobile layouts for the bookseller's website. This case study focuses on Barnes & Noble, a nationwide bookseller. I redesigned B&N's existing website with consideration of where and how there could be improvements in user experience and design strategy. The final deliverables were functioning prototypes of desktop, tablet and mobile layouts for the bookseller's website.",
         "img1": "./bookmark/bm-sketches.jpg",
         "img2": "./bookmark/bm-fontideas.png",
         "img3": "./bookmark/bm-coloropts.png",
-        "img4": "./bookmark/bm-layoutopts.png",
         "slug": "bookmark-app"
     },
     {
@@ -58,11 +56,10 @@
             "Adobe Creative Suite (Illustrator, InDesign, Photoshop)"
         ],
         "processTitle": "Design Process",
-        "processDescription": "description of process here",
-        "img1": "./arkitektur/bookmoodboard.jpg",
-        "img2": "./arkitektur/moodboard.jpg",
-        "img3": "./arkitektur/covertitle-options.png",
-        "img4": "./arkitektur/styleguide.jpg",
+        "processDescription": "This case study focuses on Barnes & Noble, a nationwide bookseller. I redesigned B&N's existing website with consideration of where and how there could be improvements in user experience and design strategy. The final deliverables were functioning prototypes of desktop, tablet and mobile layouts for the bookseller's website. This case study focuses on Barnes & Noble, a nationwide bookseller. I redesigned B&N's existing website with consideration of where and how there could be improvements in user experience and design strategy. The final deliverables were functioning prototypes of desktop, tablet and mobile layouts for the bookseller's website.",
+        "img1": "./arkitektur/moodboard.jpg",
+        "img2": "./arkitektur/covertitle-options.png",
+        "img3": "./arkitektur/styleguide.png",
         "slug": "arkitektur-magazine"
     }
 ]

@@ -13,7 +13,7 @@ export function ProjectPage({data}) {
         {/* Header */}
         <div className="head">
         <header>
-            <h1>Sydni Rose</h1>
+            <Link to="/"><h1>Sydni Rose</h1></Link>
         </header>
 
         {/* Navigation */}
@@ -45,28 +45,44 @@ export function ProjectPage({data}) {
 
         {/* Design Process */}
         <div className="processCard">
-            <h1 className="title">{selectedProject.processTitle}</h1>
-            <p className="description">{selectedProject.processDescription}</p>
-            <img className="img1" src={selectedProject.img1} alt={selectedProject.projectTitle} />
-            <img className="img2" src={selectedProject.img2} alt={selectedProject.projectTitle} />
-            <img className="img3" src={selectedProject.img3} alt={selectedProject.projectTitle} />
-            <img className="img4" src={selectedProject.img4} alt={selectedProject.projectTitle} />
+            <div className="processContent">
+                <h1 className="title">{selectedProject.processTitle}</h1>
+                <p className="description">{selectedProject.processDescription}</p>
+            </div>
+
+            <div className="img1">
+                <img src={selectedProject.img1} alt={selectedProject.projectTitle} />
+            </div>
+
+            <div className="imgSet">
+                <div className="column">
+                    <img src={selectedProject.img2} alt={selectedProject.projectTitle} />
+                </div>
+
+                <div className="column">
+                    <img src={selectedProject.img3} alt={selectedProject.projectTitle} />
+                </div>
+            </div>
+
         </div>
 
         </div>
 
 
         {/* Footer */}
+        {/* Footer */}
         <footer>
                 <div className="foot">
                 <div className="about">
-                    <h3>About</h3>
+                    <h3>ABOUT</h3>
                     <p>About me blurb, paragraph or so.</p>
+                    <p>This website was designed and bulit by me.</p>
                 </div>
 
                 <div className="contact">
-                    <h3>Contact</h3>
-                    <p>This will have email and linkedin</p>
+                    <h3>CONTACT</h3>
+                    <p>salexandra.rose@gmail.com</p>
+                    <p>linkedin.com/sydnirose</p>
                 </div>
                 </div>
             </footer>

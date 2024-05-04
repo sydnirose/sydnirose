@@ -11,7 +11,7 @@ export function Home() {
       {/* Header */}
         <div className="head">
             <header>
-                <h1>Sydni Rose</h1>
+                <Link to="/"><h1>Sydni Rose</h1></Link>
             </header>
 
         {/* Navigation */}
@@ -38,13 +38,15 @@ export function Home() {
             <footer>
                 <div className="foot">
                 <div className="about">
-                    <h3>About</h3>
+                    <h3>ABOUT</h3>
                     <p>About me blurb, paragraph or so.</p>
+                    <p>This website was designed and bulit by me.</p>
                 </div>
 
                 <div className="contact">
-                    <h3>Contact</h3>
-                    <p>This will have email and linkedin</p>
+                    <h3>CONTACT</h3>
+                    <p>salexandra.rose@gmail.com</p>
+                    <p>linkedin.com/sydnirose</p>
                 </div>
                 </div>
             </footer>
