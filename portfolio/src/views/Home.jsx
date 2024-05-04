@@ -45,8 +45,11 @@ export function Home() {
 
                 <div className="contact">
                     <h3>CONTACT</h3>
-                    <p>salexandra.rose@gmail.com</p>
-                    <p>linkedin.com/sydnirose</p>
+                    <Link to='javascript:void(0)'
+                        onClick={() => window.location = 'mailto:salexandra.rose@gmail.com'}>
+                        <p>salexandra.rose@gmail.com</p>
+                    </Link>
+                    <Link to="https://www.linkedin.com/in/sydni-rose-360b54194"><p>linkedin.com/sydnirose</p></Link>
                 </div>
                 </div>
             </footer>
