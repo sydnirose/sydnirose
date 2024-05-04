@@ -9,7 +9,7 @@ export function ProjectPage({data}) {
     console.log("project", selectedProject);
     return(
         <>
-        <div className="page">
+    <div className="page">
         {/* Header */}
         <div className="head">
         <header>
@@ -53,20 +53,20 @@ export function ProjectPage({data}) {
             <div className="img1">
                 <img src={selectedProject.img1} alt={selectedProject.projectTitle} />
             </div>
+        </div>
 
-            <div className="imgSet">
-                <div className="column">
+        <div className="imgSet">
+                <div className="img2">
                     <img src={selectedProject.img2} alt={selectedProject.projectTitle} />
                 </div>
 
-                <div className="column">
+                <div className="img3">
                     <img src={selectedProject.img3} alt={selectedProject.projectTitle} />
                 </div>
-            </div>
-
         </div>
 
-        </div>
+    </div>
+
 
 
         {/* Footer */}
