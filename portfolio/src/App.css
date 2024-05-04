@@ -64,7 +64,7 @@ h1 {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    align-items: baseline;
+    align-items: baselin;
     flex-wrap: wrap;
     margin: 0px 25px;
     padding: 10px;
@@ -75,6 +75,14 @@ p {
     font-family: "nimbus-sans", sans-serif;
     font-weight: 300;
     font-size: 20px;
+}
+
+.about {
+    max-width: 70%;
+}
+
+p.website {
+    font-size: 16px;
 }
 
 .contact p {

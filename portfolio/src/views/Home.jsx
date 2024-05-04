@@ -37,20 +37,20 @@ export function Home() {
         {/* Footer */}
             <footer>
                 <div className="foot">
-                <div className="about">
-                    <h3>ABOUT</h3>
-                    <p>About me blurb, paragraph or so.</p>
-                    <p>This website was designed and bulit by me.</p>
-                </div>
+                    <div className="about">
+                        <h3>ABOUT</h3>
+                        <p>I&apos;m currently studying to receive my Masters in Graphic and Web Design from <Link to="https://www.mcad.edu/">MCAD</Link>, pursued to foster my professional interests in UX & UI research and design, product design and web development.</p>
+                        <p className="website">This website was designed and bulit by me.</p>
+                    </div>
 
-                <div className="contact">
-                    <h3>CONTACT</h3>
-                    <Link to='javascript:void(0)'
+                    <div className="contact">
+                        <h3>CONTACT</h3>
+                        <Link to='javascript:void(0)'
                         onClick={() => window.location = 'mailto:salexandra.rose@gmail.com'}>
                         <p>salexandra.rose@gmail.com</p>
-                    </Link>
-                    <Link to="https://www.linkedin.com/in/sydni-rose-360b54194"><p>linkedin.com/sydnirose</p></Link>
-                </div>
+                        </Link>
+                        <Link to="https://www.linkedin.com/in/sydni-rose-360b54194"><p>linkedin.com/sydnirose</p></Link>
+                    </div>
                 </div>
             </footer>
     </div>
