@@ -10,6 +10,11 @@
     position: relative;
 }
 
+.projectCard:hover {
+    border-radius: 10px;
+    background-color: #d4e9d4;
+}
+
 .cardTitle {
     font-family: "nimbus-sans", sans-serif;
     font-size: 48px;
