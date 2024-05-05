@@ -4,6 +4,7 @@ import ItemCard from "../ItemCard/ItemCard";
 import projectData from '../assets/project-data.json'
 
 export function Home() {
+    // Project content
     const [projects] = useState(projectData);
 
     return (

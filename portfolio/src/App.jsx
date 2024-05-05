@@ -7,10 +7,10 @@ import projectData from "./assets/project-data.json"
 function App() {
 
   return (
-    <Routes>
-      <Route path="/" element={<Home />} />
-      <Route path=":slug" element={<ProjectPage data={projectData}/>} />
-    </Routes>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path=":slug" element={<ProjectPage data={projectData}/>} />
+      </Routes>
   )
 }
 
