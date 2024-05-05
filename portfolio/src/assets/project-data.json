@@ -1,7 +1,7 @@
 [
     {
         "projectTitle": "Barnes & Noble Case Study",
-        "projectType": "UX & UI",
+        "projectType": "UX / UI",
         "heroImage": "./barnesnoble/heroimage.png",
         "secondaryImage": "./barnesnoble/secondaryimage.png",
         "projectDescription": "This case study focuses on Barnes & Noble, a nationwide bookseller. I redesigned B&N's existing website with consideration of where and how there could be improvements in user experience and design strategy. The final deliverables were functioning prototypes of desktop, tablet and mobile layouts for the bookseller's website.",
@@ -15,7 +15,7 @@
             "Figma"
         ],
         "processTitle": "Design Process",
-        "processDescription": "This case study focuses on Barnes & Noble, a nationwide bookseller. I redesigned B&N's existing website with consideration of where and how there could be improvements in user experience and design strategy. The final deliverables were functioning prototypes of desktop, tablet and mobile layouts for the bookseller's website. This case study focuses on Barnes & Noble, a nationwide bookseller. I redesigned B&N's existing website with consideration of where and how there could be improvements in user experience and design strategy. The final deliverables were functioning prototypes of desktop, tablet and mobile layouts for the bookseller's website.",
+        "processDescription": "To approach the redesign of Barnes & Noble's user experience, as well as some branding elements, I created user personas and user flows to address the needs of the user, and where improvment was most necessary. From there I was able to sketch different layouts in mobile, tablet, and desktop dimensions that could be brought into Figma for building. After creating multiple concepts as high fidelity wireframes, I brought them to peers for feedback on design choices, layouts, usability, and accessibility. After multiple rounds of critiquing and making adjustments, I landed on a final product that addresses the user's shopping and searching experience, as well as major improvements to the user's Digital Library, rebranded as My Bookshelves.",
         "img1": "./barnesnoble/bn-mobilesketches.jpg",
         "img2": "./barnesnoble/bn-userflow.png",
         "img3": "./barnesnoble/bn-mobileconcepts.png",
@@ -23,10 +23,10 @@
     },
     {
         "projectTitle": "BookMark Case Study",
-        "projectType": "UX & UI",
+        "projectType": "UX / UI",
         "heroImage": "./bookmark/heroimage.png",
         "secondaryImage": "./bookmark/secondaryimage.png",
-        "projectDescription": "BookMark is a digital notebook for book notes, a concept I created while looking for a solution to this problem: How can I take notes while reading a hard copy book and have them organized and easy to access for future reference? I started with implementing market research and learning about potential users before reaching the current version of a mobile app prototype. This project is ongoing with the goal of alpha testing.",
+        "projectDescription": "BookMark is a digital notebook for book notes, a concept I created while looking for a solution to this problem: How can I take notes while reading a hard copy book and have them organized and easy to access for future reference? In looking for an answer to this question, I've created a mobile app prototype of BookMark. This is the current version, which is ongoing with the goal of alpha testing.",
         "skillsUsed": [
             "Skills: ",
             "User Research, ",
@@ -37,7 +37,7 @@
             "Figma"
         ],
         "processTitle": "Design Process",
-        "processDescription": "This case study focuses on Barnes & Noble, a nationwide bookseller. I redesigned B&N's existing website with consideration of where and how there could be improvements in user experience and design strategy. The final deliverables were functioning prototypes of desktop, tablet and mobile layouts for the bookseller's website. This case study focuses on Barnes & Noble, a nationwide bookseller. I redesigned B&N's existing website with consideration of where and how there could be improvements in user experience and design strategy. The final deliverables were functioning prototypes of desktop, tablet and mobile layouts for the bookseller's website.",
+        "processDescription": "This project began with brainstorming a unique problem and looking for the best solution. I began by forming my problem into a question (How can I take notes while reading a hard copy book and have them organized and easy to access for future reference?), and then looking for the potential answers. I started by implementing market research and learning about potential users to better understand the habits of those who read and/or take notes. After compiling my research, I took to sketching out different note-taking concepts, and started considering brand colors, fonts and design choices. I then started building high fidelity wireframes which were brought to users for feedback. The current product is a mobile app prototype that is still evolving based on user feedback.",
         "img1": "./bookmark/bm-sketches.jpg",
         "img2": "./bookmark/bm-fontideas.png",
         "img3": "./bookmark/bm-coloropts.png",
@@ -56,7 +56,7 @@
             "Adobe Creative Suite (Illustrator, InDesign, Photoshop)"
         ],
         "processTitle": "Design Process",
-        "processDescription": "This case study focuses on Barnes & Noble, a nationwide bookseller. I redesigned B&N's existing website with consideration of where and how there could be improvements in user experience and design strategy. The final deliverables were functioning prototypes of desktop, tablet and mobile layouts for the bookseller's website. This case study focuses on Barnes & Noble, a nationwide bookseller. I redesigned B&N's existing website with consideration of where and how there could be improvements in user experience and design strategy. The final deliverables were functioning prototypes of desktop, tablet and mobile layouts for the bookseller's website.",
+        "processDescription": "To begin this magazine, I started by creating moodboards that channeled different themes – a cooking magazine, a home magazine, and a literature magazine. I landed on a sophisticated, home design magazine inspired by archival Ikea and Architectural Digest publishings. I then used that inspiration to guide my fonts, colors, images and content choices. Using the final cover and feature spread, I'm working on a high fidelity wireframe to reflect what Arkitektur's website looks like.",
         "img1": "./arkitektur/moodboard.jpg",
         "img2": "./arkitektur/covertitle-options.png",
         "img3": "./arkitektur/styleguide.png",
