@@ -1,8 +1,8 @@
 .projectCard {
     width: 100%;
-    text-align: left;
+    text-align: center;
     border-bottom: 1px solid #2b3c33;
-    padding: 25px 25px;
+    padding: 25px 10px;
     margin: 10px;
     display: flex;
     flex-direction: column;
@@ -32,7 +32,7 @@
     font-size: 24px;
     font-weight: 400;
     color: #809188;
-    padding-left: 2px;
+    /* padding-left: 2px; */
     padding-top: 10px;
 }
 
@@ -44,6 +44,6 @@
 
 .cardImg img {
     width: 100%;
-    max-width: 850px;
+    max-width: 50%;
     border-radius: 10px;
 }
