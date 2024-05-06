@@ -20,7 +20,7 @@
         "img2": "./barnesnoble/bn-userflow.png",
         "img3": "./barnesnoble/bn-mobileconcepts.png",
         "finalTitle": "Prototype",
-        "finalGif": "./barnesnoble/bn-mobileconcepts.png",
+        "finalGif": "./barnesnoble/bn-prototype.gif",
         "slug": "barnes-and-noble"
     },
     {
@@ -44,7 +44,7 @@
         "img2": "./bookmark/bm-fontideas.png",
         "img3": "./bookmark/bm-coloropts.png",
         "finalTitle": "Prototype",
-        "finalGif": "./bookmark/bm-coloropts.png",
+        "finalGif": "./bookmark/bm-prototype.gif",
         "slug": "bookmark-app"
     },
     {
