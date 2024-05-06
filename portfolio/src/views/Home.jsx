@@ -41,7 +41,7 @@ export function Home() {
                     <div className="about">
                         <h3>ABOUT</h3>
                         <p>In pursuit of my professional interests in UX / UI research and design, product design and web development, I&apos;ll receive my Masters in Graphic and Web Design from <Link className="aboutLinks" to="https://www.mcad.edu/">MCAD</Link> in the Fall of 2024. My other areas of interest include reading and writing, which fueled my undergrad degree in Professional Journalism from <Link className="aboutLinks"  to="https://twin-cities.umn.edu/">UMN, Twin Cities</Link>. I&apos;m eager to combine my unique knowledge, skills, and experience to continue building my career in the UX / UI space.</p>
-                        <p className="website">This website was designed and bulit by me.</p>
+                        <p className="website">This website was designed and built by me.</p>
                     </div>
 
                     <div className="contact">

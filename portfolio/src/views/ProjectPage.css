@@ -46,7 +46,7 @@ img {
 .protoCard {
     text-align: left;
     margin: 25px;
-    padding-top: 20px;
+    padding-top: 40px;
     display: flex;
     flex-direction: column;
     flex-wrap: nowrap;
@@ -102,7 +102,6 @@ img {
     flex-wrap: nowrap;
     justify-content: space-evenly;
     align-items: flex-end;
-    border-bottom: 1px solid #2b3c33;
 }
 
 .img2, .img3 {

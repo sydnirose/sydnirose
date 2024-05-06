@@ -4,7 +4,7 @@
         "projectType": "UX / UI",
         "heroImage": "./barnesnoble/heroimage-transparent.png",
         "secondaryImage": "./barnesnoble/secondaryimage.png",
-        "projectDescription": "This case study focuses on Barnes & Noble, a nationwide bookseller. I redesigned B&N's existing website with consideration of where and how there could be improvements in user experience and design strategy. The final deliverables were functioning prototypes of desktop, tablet and mobile layouts for the bookseller's website.",
+        "projectDescription": "This case study focuses on Barnes & Noble, a nationwide bookseller. I redesigned B&N's existing website with consideration of where and how there could be improvements in user experience and design strategy. The final deliverables were functioning prototypes of desktop, tablet, and mobile layouts for the bookseller's website.",
         "skillsUsed": [
             "Skills: ",
             "User Journey Mapping, ",
@@ -15,7 +15,7 @@
             "Figma"
         ],
         "processTitle": "Design Process",
-        "processDescription": "To approach the redesign of Barnes & Noble's user experience, as well as some branding elements, I created user personas and user flows to address the needs of the user, and where improvment was most necessary. From there I was able to sketch different layouts in mobile, tablet, and desktop dimensions that could be brought into Figma for building. After creating multiple concepts as high fidelity wireframes, I brought them to peers for feedback on design choices, layouts, usability, and accessibility. After multiple rounds of critiquing and making adjustments, I landed on a final product that addresses the user's shopping and searching experience, as well as major improvements to the user's Digital Library, rebranded as My Bookshelves.",
+        "processDescription": "To approach the redesign of Barnes & Noble's user experience, as well as some branding elements, I created user personas and user flows to address the needs of the user, and where improvement was most necessary. From there I was able to sketch different layouts in mobile, tablet, and desktop dimensions that could be brought into Figma for building. After creating multiple concepts as high fidelity wireframes, I brought them to peers for feedback on design choices, layouts, usability, and accessibility. After multiple rounds of critiquing and making adjustments, I landed on a final product that addresses the user's shopping and searching experience, as well as major improvements to the user's Digital Library, rebranded as My Bookshelves.",
         "img1": "./barnesnoble/bn-mobilesketches.jpg",
         "img2": "./barnesnoble/bn-userflow.png",
         "img3": "./barnesnoble/bn-mobileconcepts.png",
@@ -60,7 +60,7 @@
             "Adobe Creative Suite (Illustrator, InDesign, Photoshop)"
         ],
         "processTitle": "Design Process",
-        "processDescription": "To begin this magazine, I started by creating moodboards that channeled different themes – a cooking magazine, a home magazine, and a literature magazine. I landed on a sophisticated, home design magazine inspired by archival Ikea and Architectural Digest publishings. I then used that inspiration to guide my fonts, colors, images and content choices. Using the final cover and feature spread, I'm working on a high fidelity wireframe to reflect what Arkitektur's website looks like.",
+        "processDescription": "To begin this magazine, I started by creating mood boards that channeled different themes – a cooking magazine, a home magazine, and a literature magazine. I landed on a sophisticated, home design magazine inspired by archival Ikea and Architectural Digest publishings. I then used that inspiration to guide my fonts, colors, images and content choices. Using the final cover and feature spread, I'm working on a high fidelity wireframe to reflect what Arkitektur's website looks like.",
         "img1": "./arkitektur/moodboard.jpg",
         "img2": "./arkitektur/covertitle-options.png",
         "img3": "./arkitektur/styleguide.png",
