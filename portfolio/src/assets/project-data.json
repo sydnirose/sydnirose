@@ -19,6 +19,7 @@
         "img1": "./barnesnoble/bn-mobilesketches.jpg",
         "img2": "./barnesnoble/bn-userflow.png",
         "img3": "./barnesnoble/bn-mobileconcepts.png",
+        "finalTitle": "Prototype",
         "slug": "barnes-and-noble"
     },
     {
@@ -41,6 +42,7 @@
         "img1": "./bookmark/bm-sketches.jpg",
         "img2": "./bookmark/bm-fontideas.png",
         "img3": "./bookmark/bm-coloropts.png",
+        "finalTitle": "Prototype",
         "slug": "bookmark-app"
     },
     {
@@ -60,6 +62,8 @@
         "img1": "./arkitektur/moodboard.jpg",
         "img2": "./arkitektur/covertitle-options.png",
         "img3": "./arkitektur/styleguide.png",
+        "finalTitle": "Contents Spread",
+        "finalGif": "./arkitektur/finalspread.png",
         "slug": "arkitektur-magazine"
     }
 ]
