@@ -6,6 +6,7 @@
 img {
     width: 100%;
     max-width: 900px;
+    border-radius: 2px;
 }
 
 /* Font styling */
@@ -40,6 +41,23 @@ img {
     flex-wrap: wrap;
     justify-content: space-around;
     align-items: flex-end;
+}
+
+.protoCard {
+    text-align: left;
+    margin: 25px;
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 40px;
+    border-bottom: 1px solid #2b3c33;
+}
+
+.gif {
+    padding-top: 30px;
 }
 
 .processCard {
@@ -84,10 +102,19 @@ img {
     flex-wrap: nowrap;
     justify-content: space-evenly;
     align-items: flex-end;
-    border-bottom: 1px solid #2b3c33;
 }
 
 .img2, .img3 {
     align-self: center;
     padding: 0px 10px 30px 10px;
+}
+
+/* Return to home */
+.returnHome {
+    font-family: "nimbus-sans", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    text-transform: uppercase;
+    margin: 0px 25px;
+    padding-left: 10px;
 }

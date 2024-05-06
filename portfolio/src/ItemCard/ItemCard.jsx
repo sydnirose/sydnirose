@@ -10,9 +10,9 @@ export default function ItemCard({
 }) {
     return (
         <div className="projectCard">
-
+            <Link to={`${slug}`}>
             <div className="cardImg">
-                <Link to={`${slug}`}><img src={heroImage} alt={projectTitle}/></Link>
+            <Link to={`${slug}`}><img src={heroImage} alt={projectTitle}/></Link>
             </div>
 
             <div className="cardType">
@@ -22,6 +22,7 @@ export default function ItemCard({
             <div className="cardTitle">
                 <Link to={`${slug}`}>{projectTitle}</Link>
             </div>
+            </Link>
         </div>
     )
 }

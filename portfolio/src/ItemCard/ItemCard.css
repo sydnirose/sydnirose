@@ -8,11 +8,17 @@
     flex-direction: column;
     justify-content: space-around;
     position: relative;
+    background-color: #f7f7f5;
+    transition: 0.3s;
 }
 
 .projectCard:hover {
     border-radius: 10px;
-    background-color: #d4e9d4;
+    background-color: #d6dbd8;
+}
+
+.cardTitle a:hover {
+    color: #2b3c33;
 }
 
 .cardTitle {
@@ -39,4 +45,5 @@
 .cardImg img {
     width: 100%;
     max-width: 850px;
+    border-radius: 10px;
 }

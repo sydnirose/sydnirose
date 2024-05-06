@@ -2,7 +2,7 @@
     {
         "projectTitle": "Barnes & Noble Case Study",
         "projectType": "UX / UI",
-        "heroImage": "./barnesnoble/heroimage.png",
+        "heroImage": "./barnesnoble/heroimage-transparent.png",
         "secondaryImage": "./barnesnoble/secondaryimage.png",
         "projectDescription": "This case study focuses on Barnes & Noble, a nationwide bookseller. I redesigned B&N's existing website with consideration of where and how there could be improvements in user experience and design strategy. The final deliverables were functioning prototypes of desktop, tablet and mobile layouts for the bookseller's website.",
         "skillsUsed": [
