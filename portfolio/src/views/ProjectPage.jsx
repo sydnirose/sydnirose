@@ -66,14 +66,14 @@ export function ProjectPage({data}) {
         </div>
 
         {/* Final Prototype */}
-        <div className="protoCard">
+        {/* <div className="protoCard">
             <div className="protoContent">
                 <h1 className="title">{selectedProject.finalTitle}</h1>
             </div>
             <div className="gif">
                 <img src={selectedProject.finalGif} alt={selectedProject.projectTitle} />
             </div>
-        </div>
+        </div> */}
 
         {/* Return Home */}
         <div className="returnHome">
