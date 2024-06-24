@@ -27,6 +27,7 @@ body {
     flex-wrap: wrap;
     border-bottom: 1px solid #2b3c33;
     margin: 15px 25px;
+    padding-top: 10px;
     padding-bottom: 10px;
 }
 
